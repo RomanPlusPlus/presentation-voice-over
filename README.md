@@ -12,10 +12,11 @@ Don't forget to write the narration text into the notes of each slide.
 
 ## Sample output:
 
-<video width="600" controls>
-  <source src="000_RESULT/output_concatenated_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="000_RESULT/output_concatenated_video.mp4" type="video/mp4">
+  </video>
+</figure>
 
 ## Getting Started
 
