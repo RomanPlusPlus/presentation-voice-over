@@ -1,0 +1,7 @@
+temp_audio_by_slide
+temp_pres_images
+temp_video_segment_by_slide
+venv
+.DS_Store
+__pycache__
+.idea
